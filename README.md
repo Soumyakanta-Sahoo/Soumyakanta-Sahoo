@@ -12,12 +12,22 @@ I'm a **passionate developer** who loves building innovative tech solutions. Wit
 
 ---
 
-### 📊 GitHub Stats:
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyakanta-Sahoo&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Soumyakanta-Sahoo">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyakanta-Sahoo&theme=tokyonight" />
+  </a>
 </p>
+
+### 📊 Most Used Languages
+<p align="center">
+  <a href="https://github.com/Soumyakanta-Sahoo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
