@@ -6,7 +6,7 @@ I'm a **passionate developer** who loves building innovative tech solutions. Wit
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working On:** Smart Traffic Optimization With ChOA Algorithm
+- 🔭 **Currently Working On:** VeriSpectra
 - 🌱 **Currently Learning:** AI, Machine Learning
 - 💡 **Expertise In:** Python, AI, Web Development, C++
 - 📫 **Contact Me:** [Email](mailto:acsoumyakanta@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soumyakanta-sahoo-1573472a4)
