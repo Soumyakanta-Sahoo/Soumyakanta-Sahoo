@@ -1,67 +1,139 @@
-### Hi there, I'm Soumyakanta Sahoo! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Soumyakanta Sahoo
 
-I'm a **passionate developer** who loves building innovative tech solutions. With expertise in **Python, AI, Web Development, and C++**, I strive to create impactful projects that solve real-world problems. Currently, I'm working on **Smart Traffic Optimization using ChOA Algorithm**, aiming to make urban mobility smarter and more efficient! 🚦✨
+<h3 align="center">
+AI Systems Developer • Full Stack Engineer • Intelligent Application Builder
+</h3>
+
+<p align="center">
+Building AI-powered systems, scalable applications, and intelligent real-world solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working On:** VeriSpectra
-- 🌱 **Currently Learning:** AI, Machine Learning
-- 💡 **Expertise In:** Python, AI, Web Development, C++
-- 📫 **Contact Me:** [Email](mailto:acsoumyakanta@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soumyakanta-sahoo-1573472a4)
+* 🎓 B.Tech CSAI Student at **NSUT Delhi**
+* 🔭 Currently building: **VeriSpectra**
+* 🌱 Exploring: **Artificial Intelligence, Machine Learning & Scalable Systems**
+* 💡 Strong interests in:
+
+  * AI & Intelligent Systems
+  * Full Stack Development
+  * Intelligent Automation
+  * Scalable Backend Architectures
+  * Applied Machine Learning
+* ⚡ Belief:
+
+  > *Technology should solve meaningful real-world problems.*
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🧠 Current Engineering Focus
+
+* Building scalable AI-powered applications
+* Exploring intelligent automation systems
+* Designing modern full stack architectures
+* Experimenting with applied machine learning
+* Developing practical real-world solutions
+
+---
+
+# ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,git,github" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,linux&theme=dark" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Soumyakanta-Sahoo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyakanta-Sahoo&theme=tokyonight" />
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-### 🔥 Most Used Languages
 <p align="center">
-  <a href="https://github.com/Soumyakanta-Sahoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&langs_count=6&theme=tokyonight" />
-  </a>
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=Soumyakanta-Sahoo&theme=tokyonight&hide_border=true"/>
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Soumyakanta-Sahoo/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=portfolio&theme=tokyonight" />
-  </a>
 </p>
 
 ---
 
-## 🌟 Fun Fact & Quote
+# 🚀 Featured Projects
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<p align="center">
+
+<a href="https://github.com/Soumyakanta-Sahoo/zeno-chat-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=zeno-chat-app&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Soumyakanta-Sahoo/VeriSpectra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=VeriSpectra&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Soumyakanta-Sahoo/AQI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=AQI&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Soumyakanta-Sahoo/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
-## 🔗 Connect with Me
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soumyakanta-sahoo-1573472a4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:acsoumyakanta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyakanta-Sahoo&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Soumyakanta-Sahoo&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/soumyakanta-sahoo-1573472a4">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:acsoumyakanta@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Soumyakanta-Sahoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Soumyakanta-Sahoo&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+✨ Always building • Always learning • Always evolving ✨
 </p>
