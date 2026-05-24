@@ -52,9 +52,9 @@ Building AI-powered systems, scalable applications, and intelligent real-world s
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soumyakanta-Sahoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyakanta-Sahoo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -71,19 +71,11 @@ Building AI-powered systems, scalable applications, and intelligent real-world s
 <p align="center">
 
 <a href="https://github.com/Soumyakanta-Sahoo/zeno-chat-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=zeno-chat-app&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=zeno-chat-app&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Soumyakanta-Sahoo/VeriSpectra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=VeriSpectra&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Soumyakanta-Sahoo/AQI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=AQI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Soumyakanta-Sahoo/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=portfolio&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Soumyakanta-Sahoo&repo=VeriSpectra&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
